@@ -1,4 +1,4 @@
-# Researchex-AI 🚀
+# Researchex-AI
 ### Smart AI-Powered Research Agent using IBM Granite & Langflow
 
 ---
